@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-//greeting
+//greeting2
 return 0;
 }
